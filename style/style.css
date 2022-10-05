@@ -1,0 +1,109 @@
+
+.navbar-brand img{
+    width: 190px;
+}
+.submit-button{
+    background-color: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    padding: 5px 20px;
+}
+.baner-image img{
+    width: 550px;
+}
+span{
+    color: #21B573;
+}
+.learn-text{
+    color: #FD511A;
+}
+.baner-image{
+    margin-left: 150px;
+}
+.baner-area{
+    background-color: #F0FFF0;
+    height: 570px;
+}
+.box{
+    width: 220px;
+    height: 220px;
+    background-color: #F8FFFB;
+    margin-top: 50px;
+}
+.box:hover{
+    box-shadow: 6px 6px 17px grey;
+}
+.image img{
+    width: 50px;
+    display: block;
+    margin: 50px auto 0;
+    
+}
+
+.information{
+    text-align: center;
+    
+    padding: 5px;
+}
+.card img{
+    width: 310px;
+    display: block;
+    margin: 20px auto;
+}
+.card-body{
+    padding: 10px 0 10px 20px;
+}
+.course-heading{
+    margin: 100px 0 50px;
+    text-align: center;
+}
+.cards-footer{
+    padding:20px;
+}
+.cards-footer img{
+    width: 25px;
+    height: 25px;
+    padding-right: 5px;
+    margin-top: -2px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: #fff;
+}
+.man{
+    margin: 0 25%;
+}
+.man img{
+    width: 100px;
+    margin-right: 20px;
+}
+.testimonial{
+    margin: 100px 0 50px;
+    text-align: center;
+}
+.footer-area{
+    background-color: #282531;
+    color: #fff;
+    margin-top: 50px;
+}
+.box-1{
+    max-width: 40%;
+    margin: 3%;
+}
+.box-2{
+    max-width: 60%;
+}
+.box-item{
+ width: 30%;
+ margin: 5% 0;
+
+}
+.box-item p{
+    display:inline-block;
+}
+.copyright{
+    text-align: center;
+    padding: 20px;
+}
